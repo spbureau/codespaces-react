@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
@@ -14,13 +14,19 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://sites.google.com/view/simonsakpla"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learning React by Simon Peters
           </a>
         </p>
+        <h2>Outline....</h2>
+        <ul>
+          <li>Installing VS Code</li>
+          <li>Node and Git Install</li>
+          <li>VM Creation and Setup</li>
+        </ul>
       </header>
     </div>
   );
