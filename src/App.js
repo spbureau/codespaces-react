@@ -26,6 +26,7 @@ function App() {
           <li>Installing VS Code</li>
           <li>Node and Git Install</li>
           <li>VM Creation and Setup</li>
+          <li>My New Space </li>
         </ul>
       </header>
     </div>
